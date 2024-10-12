@@ -1,2 +1,3 @@
 # kev-dev-2
-Project desc
+Kevin BERTAUX's developer portfolio.
+October 2024
